@@ -1,15 +1,4 @@
 <resources>
-    <string name="app_name">Porownywarka_procesorow</string>
+    <string name="app_name">Notebook Processor Comparator</string>
     <string name="action_settings">Settings</string>
-    <string-array name="processor_family">
-        <item>Intel Atom</item>
-        <item>Intel Core M</item>
-        <item>Intel Celeron</item>
-        <item>Intel Pentium</item>
-        <item>Intel Core i3</item>
-        <item>Intel Core i5</item>
-        <item>Intel Core i7</item>
-        <item>AMD A</item>
-        <item>AMD FX</item>
-    </string-array>
 </resources>

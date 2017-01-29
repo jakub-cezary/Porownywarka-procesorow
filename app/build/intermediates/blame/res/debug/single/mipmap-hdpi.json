@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Vilq\\Desktop\\audiogramy inne\\Porownywarka_procesorow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Vilq\\Desktop\\audiogramy inne\\Porownywarka_procesorow\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\npc.png",
+        "source": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\src\\main\\res\\mipmap-hdpi\\npc.png"
     }
 ]

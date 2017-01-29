@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -10,74 +10,64 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.vilq.porownywarka_procesorow.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
 
-    <TextView
-        android:text="TextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"
-        android:id="@+id/textView2" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_weight="2"
+            android:id="@+id/textView"
+            android:textAlignment="center"
+            android:gravity="center_vertical|center_horizontal|center" />
+    </LinearLayout>
 
-    <Spinner
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/spinner3"
-        android:layout_alignTop="@+id/spinner"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_toEndOf="@+id/spinner"
-        android:layout_alignLeft="@+id/spinner4"
-        android:layout_alignStart="@+id/spinner4" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/spinner"
+            android:layout_weight="1"/>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/spinner3"
+            android:layout_weight="1"/>
+    </LinearLayout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Notebook CPU Comparator"
-        android:id="@+id/textView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/spinner2"
+            android:layout_weight="1"/>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/spinner4"
+            android:layout_weight="1"/>
 
-    <Spinner
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="11dp"
-        android:id="@+id/spinner2"
-        android:layout_below="@+id/spinner"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_toLeftOf="@+id/textView2"
-        android:layout_toStartOf="@+id/textView2" />
+    </LinearLayout>
 
-    <Spinner
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
-        android:id="@+id/spinner"
-        android:layout_below="@+id/textView2"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignRight="@+id/spinner2"
-        android:layout_alignEnd="@+id/spinner2" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
 
-    <Spinner
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/spinner4"
-        android:layout_alignTop="@+id/spinner2"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_toRightOf="@+id/textView2"
-        android:layout_toEndOf="@+id/textView2" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:text="Porównaj"/>
 
-    <Button
-        android:text="Porównaj"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/spinner2"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="65dp"
-        android:id="@+id/button" />
-</RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

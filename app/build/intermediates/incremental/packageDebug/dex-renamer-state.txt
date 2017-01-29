@@ -1,4 +1,7 @@
-#Thu Jan 26 17:16:57 CET 2017
-base.0=C\:\\Users\\Vilq\\Desktop\\audiogramy inne\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Jan 29 15:18:05 CET 2017
+base.0=E\:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b0fa748683e2e529c8c39a1b0cc6a1bddbbc95a
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Vilq\\Desktop\\audiogramy inne\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=E\:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_32a8d11be702f7882e27c4525bcbafc37e8c2af1\\classes.dex
+base.1=E\:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_32a8d11be702f7882e27c4525bcbafc37e8c2af1
+file.0=E\:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b0fa748683e2e529c8c39a1b0cc6a1bddbbc95a\\classes.dex

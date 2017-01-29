@@ -13,9 +13,9 @@ import java.util.List;
 
 public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String DBNAME = "procesory.db";
-    public static final String DBLOCATION = "/data/data/com.example.vilq.porownywarka_procesorow/databases/";
-    private Context mContext;
-    private SQLiteDatabase mDatabase;
+    public static final String DBLOCATION = "E:\\AppData\\Local\\Android\\Porownywarka_procesorow";
+    public Context mContext;
+    public SQLiteDatabase mDatabase;
 
     public DatabaseHelper(Context context) {
         super(context, DBNAME, null, 1);
