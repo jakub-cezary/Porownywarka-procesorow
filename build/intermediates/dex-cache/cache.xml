@@ -2,85 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="1315f237a4269a2527e2ba822be034c01b243391">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b0fa748683e2e529c8c39a1b0cc6a1bddbbc95a\classes.dex" />
+        sha1="f9a56df38f4a24cac15caa5c8601da67a40ac6fb">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\instant-run_44eefdb846cfe38258e00e065acde7cf7632a993.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_32f613a2bff9078014358718d5c6bd9936d7387f\classes.dex" />
+        sha1="847ece8c86eea81f4f9fb1db6d0c7b2667823078">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1b4011b85e899ad938a4dba119b5702e4a31d2fb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_5cd1d63f3fe94b2d1e2b8ac6e577b1567a44e1a5\classes.dex" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_39a0997f51b62b479780b0657827943f4e0bdc6a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_cb7acc722421f36b0c90feaa613ccec8732d85ec\classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d944e6dad8764eb183e74ca9efa0977d7377e00b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_b5c3bb465f772abe17f89d71c747bd8f9c8a46fd\classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_27d1e2d442ac8aa1a29d74cd07ec667c5a7b1f81.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="5089c93b4bbdb60b9c7a64ffbedf7b0458f49c6b">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32a8d11be702f7882e27c4525bcbafc37e8c2af1\classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_32d63868a937af2116923e1079687725ef7afe8d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_6e791eabef229c0cae10fa4bb36babd1ffa9fcc9\classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4dd9a538a3dc1dcb3ab98b5e0267b5ee583f4e75.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\Porownywarka_procesorow\app\libs\jsoup-1.10.2.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.2_23d6e29b3ccccebbfd1b279141bab03b7b72dfb1\classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_37704c7d1d7e1094d30727c3e1ac8a4d3f0542b6.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_db269e189ac13f459da88b512a06c4a0d73ec8e7\classes.dex" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_87cd1f3762fff2f0082385cde7f24b930be2a197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_96675e11950804226ea0a37f673a508dc3ae23c3.jar" />
     </item>
 
 </items>

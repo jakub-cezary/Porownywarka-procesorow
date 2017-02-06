@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Notebook Processor Comparator</string>
+    <string name="app_name">LaptopCPUCompare</string>
     <string name="action_settings">Settings</string>
 </resources>

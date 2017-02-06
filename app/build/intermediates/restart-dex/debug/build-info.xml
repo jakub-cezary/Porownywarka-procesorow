@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="22"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="501272959619500"
-    token="-1216115324247913603"
+    timestamp="17781857967309"
+    token="-2506110268009983633"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="23091" />
+        duration="288" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="4892" />
+        duration="60" />
     <task
         name="verifier"
-        duration="2400" />
+        duration="16" />
 
     <artifact
-        location="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="501272959619500"
+        timestamp="17781857967309"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\AppData\Local\Android\Porownywarka_procesorow\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

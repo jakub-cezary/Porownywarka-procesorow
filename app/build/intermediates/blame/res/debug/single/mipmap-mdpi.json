@@ -1,6 +1,14 @@
 [
     {
-        "merged": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "E:\\AppData\\Local\\Android\\LaptopCPUCompare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "E:\\AppData\\Local\\Android\\LaptopCPUCompare\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vilq\\Desktop\\audiogramy inne\\LaptopCPUCompare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "C:\\Users\\Vilq\\Desktop\\audiogramy inne\\LaptopCPUCompare\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "E:\\AppData\\Local\\Android\\Porownywarka_procesorow\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
     }
 ]
